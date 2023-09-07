@@ -8,7 +8,7 @@
 2. Exhaustive testing is impossible
 3. Early testing saves time and money
 4. Defects cluster together
-5. Tests wear out
+5. Tests wear out/Pesticide paradox
 6. Testing is context dependent
 7. Absence-of-defects fallacy
 

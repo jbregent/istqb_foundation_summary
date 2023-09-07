@@ -8,3 +8,5 @@ https://www.sstb.se/Homepage/Download-File/f/1363699/h/144e418799832370ac7950ac1
 1. [Fundamentals of Testing](./01_fundamentals.md)
 2. [Testing Throughout the Software Development Lifecycle](./02_testing_sdlc.md)
 3. [Static Testing](./03_static_testing.md)
+4. [Test Analysis and Design](./04_analysis_design.md)
+5. [5 Managing the Test Activities](./05_managing_test_activities.md)
